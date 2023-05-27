@@ -93,8 +93,7 @@
       "nome": "Kleber",
       "carne": "Alcatra",
       "pao": "3 Queijos",
-      "opcionais": [
-      ],
+      "opcionais": [],
       "status": "Solicitado",
       "id": 2
     },
@@ -113,8 +112,7 @@
       "nome": "Lucia",
       "carne": "Veggie burger",
       "pao": "3 Queijos",
-      "opcionais": [
-      ],
+      "opcionais": [],
       "status": "Solicitado",
       "id": 4
     },
@@ -133,16 +131,6 @@
       "id": 5
     },
     {
-      "nome": "zeca",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
       "nome": "carlos",
       "carne": "Alcatra",
       "pao": "3 Queijos",
@@ -152,21 +140,6 @@
       ],
       "status": "Solicitado",
       "id": 7
-    },
-    {
-      "nome": "Juka",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame",
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }
