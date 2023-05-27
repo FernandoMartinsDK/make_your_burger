@@ -86,7 +86,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "Produção",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -115,20 +115,6 @@
       "opcionais": [],
       "status": "Solicitado",
       "id": 4
-    },
-    {
-      "nome": "kiko",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 5
     },
     {
       "nome": "carlos",
