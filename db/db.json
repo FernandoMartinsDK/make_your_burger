@@ -144,6 +144,32 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "carlos",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Juka",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate",
+        "Cebola roxa",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }
