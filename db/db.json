@@ -94,8 +94,6 @@
       "carne": "Alcatra",
       "pao": "3 Queijos",
       "opcionais": [
-        "0",
-        "1"
       ],
       "status": "Solicitado",
       "id": 2
@@ -116,7 +114,6 @@
       "carne": "Veggie burger",
       "pao": "3 Queijos",
       "opcionais": [
-        "0"
       ],
       "status": "Solicitado",
       "id": 4
